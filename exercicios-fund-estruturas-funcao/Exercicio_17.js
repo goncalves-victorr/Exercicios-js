@@ -19,6 +19,8 @@ function planoAumento(plano, salario) {
         case 'C':
             console.log(salario = salario + (salario * 0.20));
             break;
+        default:
+            localStorage('plano é inválido')
     }
 }
 planoAumento('C', 1500)
