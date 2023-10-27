@@ -14,3 +14,9 @@ objeto = {
 }
 
 objeto.processamento()
+
+// Pricipios importantes:
+// 1. abstracao
+// 2. encapsulamento
+// 3. herança (prototype)
+// 4. polimorfismo
