@@ -19,4 +19,4 @@ objeto.processamento()
 // 1. abstracao
 // 2. encapsulamento
 // 3. herança (prototype)
-// 4. polimorfismo
+// 4. polimorfirsmo
