@@ -14,6 +14,7 @@ objeto = {
 }
 
 objeto.processamento()
+objeto.processamento()
 
 // Pricipios importantes:
 // 1. abstracao
